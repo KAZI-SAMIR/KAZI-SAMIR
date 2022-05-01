@@ -4,7 +4,7 @@ Hi 👋 My name is Kazi Samir
 Web developer
 -------------
 
-Web Developer l've been learning to code for 1 year, after switching careers. l stared with HTML, but havr really found a passion for backend development
+Web Developer l've been learning to code for 1 year, after switching careers. l stared with HTML, but have really found a passion for backend development
 
 * 🌍  I'm based in Asia
 * 🖥️  See my portfolio at [Underdeveloped](http://X.com)
