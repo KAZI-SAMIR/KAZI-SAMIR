@@ -9,7 +9,7 @@ Web Developer l've been learning to code for 1 year, after switching careers. l 
 * 🌍  I'm based in Asia
 * 🖥️  See my portfolio at [Underdeveloped](http://X.com)
 * ✉️  You can contact me at [kazi46617@gmail.com](mailto:kazi46617@gmail.com)
-* 🚀  I'm currently working on [Flask app](http://kazi-samir-noteapp.herokuapp.com)
+* 🚀  I'm currently working on [React app](https://ksamir.cyclic.app)
 * 🧠  I'm learning Mangodb
 * 🤝  I'm open to collaborating on Interesting project
 
